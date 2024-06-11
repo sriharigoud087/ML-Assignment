@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Task 1: Read the CSV file
-df = pd.read_csv('https://raw.githubusercontent.com/ManidharKondeti/Assignmnt3ML/main/data.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/sriharigoud087/ML-Assignment/main/data.csv')
 
 print("CSV file read successfully:\n", df.head())
 
